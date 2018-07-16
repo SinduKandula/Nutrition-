@@ -1,1 +1,2 @@
-# React-Native-Nutrition-Mobile-App
+# fitness-app
+A one stop solution to get to your fitness goals.
