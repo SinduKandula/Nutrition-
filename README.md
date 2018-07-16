@@ -1,2 +1,2 @@
-# fitness-app
-A one stop solution to get to your fitness goals.
+# Nutrition-app
+A one stop solution to keep track of your nutrition.
